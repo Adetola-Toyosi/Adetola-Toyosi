@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1JVCUT8P6gHCwfHV6o88uNEypn53rL4Eh/edit?usp=sharing&ouid=115515668851810820178&rtpof=true&sd=true](https://docs.google.com/document/d/1JVCUT8P6gHCwfHV6o88uNEypn53rL4Eh/edit?usp=sharing&ouid=115515668851810820178&rtpof=true&sd=true)
 
-- ⚡ Fun fact --> **When I'm not working, I play the guitar, COD and chess. I also love watching Animes!**
+- ⚡ Fun fact --> **When I'm not working, I play the guitar, CODM and chess. I also love watching Animes!**
 
 <h3 align="left">Please connect with me:</h3>
 <p align="left">
