@@ -14,7 +14,7 @@
 
 - 😄 Pronouns --> **She/Her**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1JVCUT8P6gHCwfHV6o88uNEypn53rL4Eh/edit?usp=sharing&ouid=115515668851810820178&rtpof=true&sd=true](https://docs.google.com/document/d/1JVCUT8P6gHCwfHV6o88uNEypn53rL4Eh/edit?usp=sharing&ouid=115515668851810820178&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1JVCUT8P6gHCwfHV6o88uNEypn53rL4Eh/edit?usp=sharing&ouid=115515668851810820178&rtpof=true&sd=true]
 
 - 🖥️ Look at my repositories to see what I've been up to
 
