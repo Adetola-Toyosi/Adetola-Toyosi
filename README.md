@@ -4,7 +4,7 @@
 
 - 🔭 I’m constantly working on **analytical projects using MS Excel, Python and Power BI.**
 
-- 🌱 I’m currently learning to use **MS Excel and Power BI better along with R for data analysis.**
+- 🌱 I’m currently learning to use **MS Excel and Power BI better along with for data analysis.**
 
 - 👯 I’m looking to collaborate on **data analysis projects.**
 
@@ -13,8 +13,6 @@
 - 📫 How to reach me --> **adetolatoyosi5@gmail.com**
 
 - 😄 Pronouns --> **She/Her**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1QZ9EKL8RnBzxjDB_m98_lSxrHubaYF3F/edit?usp=sharing&ouid=115515668851810820178&rtpof=true&sd=true]
 
 - 🖥️ Look at my repositories to see what I've been up to
 
